@@ -1,16 +1,1 @@
-{
- "dashboard": {
-  "production": 3996,
-  "installs": 1,
-  "returnTrips": 0,
-  "callbacks": 0,
-  "updatedAt": "2026-10-18T21:12:00-05:00"
- },
- "weeks": [
-  {
-   "weekStart": "2026-09-21",
-   "label": "Sep 21",
-   "production": 3996
-  }
- ]
-}
+{"dashboard":{"production":3996,"installs":1,"returnTrips":0,"callbacks":0,"updatedAt":"2026-10-20T17:45:00-05:00"},"weeks":[{"weekStart":"2026-09-21","label":"Sep 21","production":3996}]}
